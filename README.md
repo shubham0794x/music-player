@@ -19,12 +19,15 @@ yarn
 ```bash
 yarn start
 ```
+Visit http://localhost:3000/
+
 
 ## Used Api:
 https://api.anyaudio.in
 
 ### References
-I have used google.com extensively.
+I have used google.com extensively for learning and compiling stable version.
 I have used react starter app to initiate the building of project.
 I have also used predifined library and source code files like node files, webpack files ,
 bundlers from their respective sources to make the build process of App more scalable and functional.
+
