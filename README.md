@@ -27,10 +27,6 @@ Visit http://localhost:3000/
 ![screenshot 268](https://user-images.githubusercontent.com/17377107/35059273-9a83afda-fbe0-11e7-84cf-3001f43ff8d9.png)
 
 
-
-## Used Api:
-https://api.anyaudio.in
-
 ### References
 I have used google.com extensively for learning and compiling stable version.
 I have used react starter app to initiate the building of project.
