@@ -1,4 +1,4 @@
-## Test for react developer internship
+## Music Player
 
 I have used yarn as a package manager for node.js.
 With respect to npm , yarn provides better stability,support,speed etc.
